@@ -1,0 +1,6 @@
+/home/administrator/Desktop/lab2_arham/Lab2/CMakeFiles/Lab2.dir
+/home/administrator/Desktop/lab2_arham/Lab2/CMakeFiles/edit_cache.dir
+/home/administrator/Desktop/lab2_arham/Lab2/CMakeFiles/rebuild_cache.dir
+/home/administrator/Desktop/lab2_arham/Lab2/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+/home/administrator/Desktop/lab2_arham/Lab2/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+/home/administrator/Desktop/lab2_arham/Lab2/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
