@@ -1,0 +1,6 @@
+/home/administrator/Desktop/lab3_last_task/CMakeFiles/lab3_last_task.dir
+/home/administrator/Desktop/lab3_last_task/CMakeFiles/edit_cache.dir
+/home/administrator/Desktop/lab3_last_task/CMakeFiles/rebuild_cache.dir
+/home/administrator/Desktop/lab3_last_task/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+/home/administrator/Desktop/lab3_last_task/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+/home/administrator/Desktop/lab3_last_task/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
